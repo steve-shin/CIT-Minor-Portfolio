@@ -1,3 +1,5 @@
+![Coding Logo](https://github.com/steve-shin/CIT-Minor-Portfolio/blob/d8001f7721f3c5760bd9d30eda32692c4ca59719/christopher-gower-m_HRfLhgABo-unsplash%20(1).jpg)
+
 ## Welcome to Steven Shinmachi's CIT Minor Porfolio
 
 Below are Projects and Labs completed from different CIT Classes. 
